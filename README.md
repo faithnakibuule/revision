@@ -1,2 +1,2 @@
-# git_practice_1
+# cherry picking repo
 I am trying out github
